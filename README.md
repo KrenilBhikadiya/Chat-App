@@ -4,4 +4,4 @@
 ### A Nodejs library for realtime web applications, best for chatting applications. 
 ### It enables realtime, bi-directional communication between web clients and servers.
 
-Preview Here : https://chat-app-krenil.herokuapp.com
+Preview here : https://chat-app-krenil.herokuapp.com
